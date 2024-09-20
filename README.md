@@ -159,3 +159,9 @@ Support this project with your organization. Your logo will show up here with a 
 <a href="https://opencollective.com/flutter-webrtc/organization/7/website"><img src="https://opencollective.com/flutter-webrtc/organization/7/avatar.svg"></a>
 <a href="https://opencollective.com/flutter-webrtc/organization/8/website"><img src="https://opencollective.com/flutter-webrtc/organization/8/avatar.svg"></a>
 <a href="https://opencollective.com/flutter-webrtc/organization/9/website"><img src="https://opencollective.com/flutter-webrtc/organization/9/avatar.svg"></a>
+
+## Edit
+
+### Ethan update 20240920
+
+use webRTC push and pull living broadcasting to SRS,only support H.264,update CustomVideoDecoderFactory and CustomVideoEncoderFactory to implement custom codec decoder and encoder.
